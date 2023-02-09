@@ -4,5 +4,8 @@ Mande suas provas e trabalhos e-mail: c3f3t4lun0s@gmail.com <br/>
 adminstrado por DÓDÓ
 
 ## Lista de contas dos alunos de Engenharia de computação
+
   * [Leonam Teixeira](http://github.com/leonamtv)
+  * [Bruno Lima](https://github.com/Brunoop-Lima)
+  * [Wellington Jhonney](https://github.com/Wjhonney)
 
